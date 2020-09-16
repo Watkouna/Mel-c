@@ -1,2 +1,3 @@
 master branch
-Branch c
+Branch d
+conflict resolved
