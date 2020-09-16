@@ -1,3 +1,3 @@
 masterブランチで書きました
-A branch
-B branch
+I wrote it on the A branch
+I wrote it on the branch B
